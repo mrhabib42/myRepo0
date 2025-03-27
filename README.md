@@ -1,2 +1,2 @@
 # myRepo0
-This is my First Repo AI-202409G
+This is My First Repo AI-202409G
